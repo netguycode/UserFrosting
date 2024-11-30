@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [5.2.0](https://github.com/userfrosting/userfrosting/compare/5.1.0...5.2.0)
 - Renamed npm scripts, add Vite npm scripts
 
+## [5.1.3](https://github.com/userfrosting/userfrosting/compare/5.1.2...5.1.3)
+- Bump frontend dependencies by @dependabot
+- Add PHP 8.4 support & tests
+
 ## [5.1.2](https://github.com/userfrosting/userfrosting/compare/5.1.1...5.1.2)
 - Fix FontAwesome icons on the about page
 - Add vscode settings
